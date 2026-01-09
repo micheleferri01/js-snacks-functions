@@ -23,6 +23,6 @@ function startsWith(letter,array){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
-
+const output = startsWith('A',names);
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
