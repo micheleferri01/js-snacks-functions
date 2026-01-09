@@ -12,7 +12,8 @@ const userName = 'Mario';
 const greet = (name) => `Ciao ${name}`
 
 // Invoca la funzione qui e stampa il risultato in console
-greet(userName);
+const output = greet(userName);
 
 
 //Risultato atteso se si passa 'Mario': // ciao Mario
+console.log(output);
