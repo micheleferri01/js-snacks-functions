@@ -26,3 +26,4 @@ function startsWith(letter,array){
 const output = startsWith('A',names);
 
 //Risultato atteso se si passa la lettera A: ["Anna", "Adele", "Alessandra"]
+console.log(output);
