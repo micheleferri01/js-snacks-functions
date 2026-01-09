@@ -39,3 +39,5 @@ function greet(name){
 const output = greet(name);
 
 //Risultato atteso se si passa 'Mario' alle 18: // Buonasera Mario.
+
+console.log(output);
