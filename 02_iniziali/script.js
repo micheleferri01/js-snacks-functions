@@ -20,6 +20,6 @@ function firstLetter(array){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
-
+const result = firstLetter(names);
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
