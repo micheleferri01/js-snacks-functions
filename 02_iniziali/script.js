@@ -23,3 +23,4 @@ function firstLetter(array){
 const result = firstLetter(names);
 
 //Risultato atteso: ["A", "L", "M", "A", "G", "A"]
+console.log(result);
