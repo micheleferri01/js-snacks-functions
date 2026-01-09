@@ -25,7 +25,8 @@ function vocalsInString(word){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
-const output = vocalsInString(word);
+const result = vocalsInString(word);
 
 
 //Risultato atteso se si passa 'javascript': 3 (a, a, i)
+console.log(`${word}: ${result.length} (${result.join(',')})`);
